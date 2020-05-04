@@ -1,0 +1,17 @@
+{
+    "datos_del_juego": {
+        "Rank": "number",
+        "Name": "string",
+        "Platform": "string",
+        "Year": "number",
+        "Genre": "string",
+        "Publisher": "string"
+    },
+    "ventas": {
+        "NA_Sales": "single",
+        "EU_Sales": "single",
+        "JP_Sales": "single",
+        "Other_Sales": "single",
+        "Global_Sales": "single"
+    }
+}
